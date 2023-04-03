@@ -1,0 +1,20 @@
+
+npx create-react-app aula-alura --template typescript --use-npm
+
+npm install --save-dev sass
+
+npm install -D typescript-plugin-css-modules
+
+npm i uuid
+
+npm i --save-dev @types/uuid
+
+npm install normalize.css
+
+npm install react-bootstrap bootstrap  
+
+npm i react-router-dom
+
+npm install react-icons
+
+# npm install firebase
